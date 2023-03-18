@@ -17,7 +17,7 @@ Economics, Soongsil Univ. (2015.03 - 2022.02)
 
 - Dacon Inc | Data Science Team (2021.08 - 2022.08)
 
-## 👨🏻‍💻 Awards
+## 🏅 Awards
 
 - Computer Vision AI Competition (2020.09)
 

@@ -1,5 +1,5 @@
 ## 🙋 TAERANG PARK
-**Python, SQL** 기반의 1 년차 Data Analyst **박태랑**입니다.
+**Python, SQL** 기반의 Data Analyst **박태랑**입니다.
 
 - 다수의 **User, Product 분석** 경험으로 플랫폼 서비스에 대한 높은 이해도 보유
 - **통계적 방법**을 활용한 실험 설계 및 가설 검증 경험
@@ -7,12 +7,11 @@
 - 웹페이지 형태의 **대시보드** 구현 경험
 
 
-## 🎓 Education
-Economics, Soongsil Univ. (2015.03 - 2022.02)
-
-## 🏢 Career
-
+## 🏢 Work Experience
 - Dacon Inc | Data Science Team (2021.08 - 2022.08)
+
+## 🎓 Education
+- Economics, Soongsil Univ. (2015.03 - 2022.02)
 
 ## 🏅 Awards
 

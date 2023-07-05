@@ -13,7 +13,7 @@
 ## 🎓 Education
 - Economics, Soongsil Univ. (2015.03 - 2022.02)
 
-## 🏅 Awards
+## 🏅 Award
 
 - Computer Vision AI Competition (2020.09)
 

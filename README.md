@@ -22,4 +22,6 @@
 
 ![Python Badge](https://img.shields.io/badge/Python-235A97?style=flat-square&logo=Python&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479a1?style=flat-square&logo=Mysql&logoColor=white)
+![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=Docker&logoColor=white)
+
